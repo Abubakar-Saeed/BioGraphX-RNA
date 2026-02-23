@@ -1,0 +1,6 @@
+joblib==1.5.3
+numpy==2.4.1
+pandas==2.3.3
+psutil==7.2.1
+igraph==1.0.0
+scipy==2.4.1
