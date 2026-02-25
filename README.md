@@ -1,5 +1,5 @@
 # BioGraphX-RNA
-[![DOI](https://img.shields.io/badge/DOI-10.64898%252F2026.02.23.889451-blue)](https://doi.org/10.64898/2026.02.23.889451)
+[![DOI](https://img.shields.io/badge/DOI-10.64898%252F2026.02.23.889451-blue)](https://doi.org/10.64898/2026.02.23.707573)
 ![Python Version](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/License-Academic-blue.svg)
 
@@ -94,6 +94,6 @@ The pipeline identifies specific interaction patterns associated with:
 * **Microvesicles:** Extended AU regions, export motifs
 
 ## Citation
-If you use BioGraphX in your research, please cite:
-Saeed, A., & Abbas, W. (2026). BioGraphX: Bridging the sequence–structure gap via physicochemical graph encoding for explainable subcellular localization prediction. https://doi.org/10.64898/2026.01.21.700873
+If you use BioGraphX-RNA in your research, please cite:
+Saeed, A., & Abbas, W. (2026). BioGraphX-RNA: A universal physicochemical graph encoding for interpretable RNA subcellular localization prediction. https://doi.org/10.64898/2026.02.23.707573
 
